@@ -21,3 +21,4 @@ for j in a:
         if(isp[0].replace("\n","")==j):
             print(isp[1].replace("\n",""),end=" ")
             break
+print()
